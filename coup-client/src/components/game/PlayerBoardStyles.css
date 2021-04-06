@@ -1,0 +1,49 @@
+.PlayerBoardItem{
+    background-color: #73C373;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.PlayerBoardItem h2{
+    margin-top: 10px;
+    font-weight: lighter;
+    color: white;
+    line-height: 80%;
+}
+
+.PlayerBoardItem h3{
+    display:inline;
+}
+
+.coinImage{
+    display:inline;
+    height: 25px;
+    width: 25px;
+  }
+
+.PlayerBoardItem p{
+    line-height: 50%;
+    font-weight: regular;
+    color: white;
+}
+
+.InfluenceUnitContainerBack {
+    width: 80px;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+    line-height: 30%;
+    display: inline-block;
+  }
+  
+  .InfluenceUnitContainerBack img{
+  border-radius: 10px;
+  width: 70px;
+  height: 95px;
+  }
+  
